@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/application"
-	"github.com/sentinel-engine/relay/internal/domain"
-	"github.com/sentinel-engine/relay/internal/infrastructure/memory"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/application"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/memory"
 )
 
 type fakeClock struct {

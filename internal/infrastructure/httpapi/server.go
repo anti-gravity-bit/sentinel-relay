@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/application"
-	"github.com/sentinel-engine/relay/internal/domain"
-	"github.com/sentinel-engine/relay/internal/infrastructure/observability"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/application"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/observability"
 )
 
 // Server wires narrow application use-case interfaces to Go 1.22 net/http routes.

@@ -86,11 +86,11 @@ Expected output:
 === RUN   TestSchemaDDLIncludesIndexesAndConstraints
 --- PASS: TestSchemaDDLIncludesIndexesAndConstraints (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/infrastructure/sqlstore
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/sqlstore
 === RUN   TestEndToEndHTTPIntegrationAndSignatureVerification
 --- PASS: TestEndToEndHTTPIntegrationAndSignatureVerification (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/infrastructure/httpapi
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/httpapi
 ```
 
 [← Previous: 02. Core Engine & Concurrency](./02-core-engine-and-concurrency.md) | [Hub](../README.md) | [Next: 04. Production Ops & Benchmarks →](./04-production-ops-and-benchmarks.md)

@@ -6,7 +6,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
 )
 
 // SchemaDDL defines the relational tables and partial indexes for PostgreSQL / SQLite WAL deployments.

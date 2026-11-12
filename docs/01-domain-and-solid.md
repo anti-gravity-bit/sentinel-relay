@@ -103,11 +103,11 @@ Expected output:
 === RUN   TestCircuitBreakerTransitions
 --- PASS: TestCircuitBreakerTransitions (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/domain
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/domain
 === RUN   TestStoreConcurrentIdempotencyAndClaiming
 --- PASS: TestStoreConcurrentIdempotencyAndClaiming (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/infrastructure/memory
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/memory
 ```
 
 [← Previous: Project Hub](../README.md) | [Hub](../README.md) | [Next: 02. Core Engine & Concurrency →](./02-core-engine-and-concurrency.md)

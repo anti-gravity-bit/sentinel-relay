@@ -88,7 +88,7 @@ Expected output:
 === RUN   TestTenantRateLimiterAndPrometheusExposition
 --- PASS: TestTenantRateLimiterAndPrometheusExposition (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/infrastructure/observability
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/observability
 ```
 
 [← Previous: 03. Persistence, HTTP API & Scaling](./03-persistence-and-api.md) | [Hub](../README.md) | [ADR-001 Blueprint →](./adr/ADR-001-architecture-blueprint.md)

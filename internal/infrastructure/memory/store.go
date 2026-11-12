@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
 )
 
 // Store is a thread-safe in-memory implementation of domain.EndpointRepository and domain.DeliveryRepository.

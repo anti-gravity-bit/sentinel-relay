@@ -7,7 +7,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
 )
 
 type SystemClock struct{}

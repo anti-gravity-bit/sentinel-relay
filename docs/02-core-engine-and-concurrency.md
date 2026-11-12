@@ -114,7 +114,7 @@ Expected output:
 === RUN   TestApplicationRetryToDLQAndReplayLifecycle
 --- PASS: TestApplicationRetryToDLQAndReplayLifecycle (0.00s)
 PASS
-ok  	github.com/sentinel-engine/relay/internal/application
+ok  	github.com/anti-gravity-bit/sentinel-relay/internal/application
 ```
 
 [← Previous: 01. Domain & SOLID](./01-domain-and-solid.md) | [Hub](../README.md) | [Next: 03. Persistence, HTTP API & Scaling →](./03-persistence-and-api.md)

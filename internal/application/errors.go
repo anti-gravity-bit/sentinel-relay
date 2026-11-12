@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/sentinel-engine/relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
 )
 
 type ErrorCode string

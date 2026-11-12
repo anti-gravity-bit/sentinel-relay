@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sentinel-engine/relay/internal/domain"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/domain"
 )
 
 // Dispatcher executes signed outbound HTTP POST requests to subscriber endpoints.

@@ -1,0 +1,27 @@
+# Binaries
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+relayd
+
+# Tests and coverage
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Local env and data
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sentinel-engine/relay/internal/infrastructure/sqlstore"
+	"github.com/anti-gravity-bit/sentinel-relay/internal/infrastructure/sqlstore"
 )
 
 func TestSchemaDDLIncludesIndexesAndConstraints(t *testing.T) {
